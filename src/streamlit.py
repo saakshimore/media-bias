@@ -133,7 +133,7 @@ def get_conflict_plot_data():
     full_map = gpd.GeoDataFrame.from_file(full_map_path)
     return df, israel_map, pal_map, full_map
 
-st.set_page_config(page_title="Media Bias in Israel-Palestine Coverage", page_icon="🍉", layout="wide")
+st.set_page_config(page_title="Media Bias in Israel-Palestine Coverage", page_icon="📈", layout="wide")
 
 
 current_directory = os.path.dirname(os.path.realpath(__file__))
