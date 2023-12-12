@@ -1,0 +1,31 @@
+/* styles.css */
+
+body {
+    background-color: #F5F5F5; /* Lighter background color */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #003366; /* Darker text color */
+}
+
+.sidebar {
+    background-color: #282c33; /* Darker background color for sidebar */
+    color: #FFFFFF; /* White text color for sidebar */
+}
+
+.sidebar .stRadio .stRadio-empty {
+    background: #156681; /* Darker background color for radio buttons */
+}
+
+.stPlotlyChart {
+    background-color: #cbcaca; /* White background color for Plotly charts */
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
