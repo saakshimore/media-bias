@@ -16,3 +16,4 @@ wordcloud
 plotly
 pandas
 matplotlib
+openpyxl
