@@ -44,5 +44,3 @@ Your output should strictly be in correct json format that should be passed to j
 4. article_news_agency
 5. article_score
 6. confidence_score
-
-Article info: '''{row}'''
