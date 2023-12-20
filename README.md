@@ -63,8 +63,14 @@ A few natural next steps for this project would be to:
 
 
 ## User Guide
-
 Navigate to the directory where you have cloned the repo. 
+
+To load the website, run:
+```
+streamlit run src/streamlit.py
+```
+
+For the entire project pipeline:
 ```
 pip install -r requirement.txt
 ```
